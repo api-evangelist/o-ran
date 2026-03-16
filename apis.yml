@@ -1,0 +1,44 @@
+aid: o-ran
+name: O-RAN
+description: >-
+  O-RAN supports the Open Radio Access Network architecture under the Linux Foundation for more interoperable and virtualized mobile network infrastructure. It defines open interfaces between RAN components enabling multi-vendor deployments and network intelligence through AI and machine learning.
+type: Index
+position: Consumer
+access: 3rd-Party
+image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Telecom
+  - Radio
+  - Open Source
+  - Linux Foundation
+created: '2026-03-16'
+modified: '2026-03-16'
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/o-ran/refs/heads/main/apis.yml
+specificationVersion: '0.19'
+apis:
+  - aid: o-ran:o-ran-api
+    name: O-RAN API
+    description: >-
+      Programmatic access to O-RAN open interface specifications, RAN intelligence APIs, and network virtualization tools.
+    humanURL: https://docs.o-ran-sc.org/
+    tags:
+  - Telecom
+  - Radio
+  - Open Source
+  - Linux Foundation
+    properties:
+      - type: Documentation
+        url: https://docs.o-ran-sc.org/
+common:
+  - type: Documentation
+    name: O-RAN Documentation
+    description: Official documentation for O-RAN.
+    url: https://docs.o-ran-sc.org/
+  - type: GitHubOrg
+    name: O-RAN GitHub
+    description: Source code and repositories for O-RAN.
+    url: https://github.com/o-ran-sc
+maintainers:
+  - FN: Kin Lane
+    email: info@apievangelist.com
