@@ -7,10 +7,10 @@ position: Consumer
 access: 3rd-Party
 image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-  - Telecom
-  - Radio
-  - Open Source
   - Linux Foundation
+  - Open Source
+  - Radio
+  - Telecom
 created: '2026-03-16'
 modified: '2026-03-16'
 url: >-
@@ -23,10 +23,10 @@ apis:
       Programmatic access to O-RAN open interface specifications, RAN intelligence APIs, and network virtualization tools.
     humanURL: https://docs.o-ran-sc.org/
     tags:
-      - Telecom
-      - Radio
-      - Open Source
       - Linux Foundation
+      - Open Source
+      - Radio
+      - Telecom
     properties:
       - type: Documentation
         url: https://docs.o-ran-sc.org/
