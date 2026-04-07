@@ -23,10 +23,10 @@ apis:
       Programmatic access to O-RAN open interface specifications, RAN intelligence APIs, and network virtualization tools.
     humanURL: https://docs.o-ran-sc.org/
     tags:
-  - Telecom
-  - Radio
-  - Open Source
-  - Linux Foundation
+      - Telecom
+      - Radio
+      - Open Source
+      - Linux Foundation
     properties:
       - type: Documentation
         url: https://docs.o-ran-sc.org/
