@@ -49,6 +49,8 @@ apis:
       - type: Wiki
         url: https://wiki.o-ran-sc.org/
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/o-ran
   - type: Website
     url: https://o-ran.org/
   - type: Documentation
