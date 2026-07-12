@@ -1,0 +1,27 @@
+generated: '2026-07-11'
+method: probed
+source: live DNS/TLS/HTTP probes of apis.yml + OpenAPI hosts
+hosts:
+- host: o-ran.org
+  https: true
+  tls_version: TLSv1.3
+  cert_expires: Aug 16 18:31:40 2026 GMT
+  hsts: true
+  hsts_max_age: 31536000
+- host: docs.o-ran-sc.org
+  https: true
+  tls_version: TLSv1.3
+  cert_expires: Oct  2 13:37:31 2026 GMT
+  hsts: false
+domains:
+- domain: o-ran.org
+  dnssec: false
+  caa: []
+  spf: true
+  dmarc: true
+  dmarc_policy: none
+- domain: o-ran-sc.org
+  dnssec: false
+  caa: []
+  spf: false
+  dmarc: false
