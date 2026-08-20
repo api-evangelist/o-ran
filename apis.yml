@@ -24,6 +24,13 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/o-ran.png
 tags:
   - Linux Foundation
   - Mobile Network
+  - Open-Source
+  - RAN
+  - Radio
+  - Telecom
+tags_raw:
+  - Linux Foundation
+  - Mobile Network
   - Open Source
   - RAN
   - Radio
@@ -42,6 +49,12 @@ apis:
       network virtualization tools.
     humanURL: https://docs.o-ran-sc.org/
     tags:
+      - Linux Foundation
+      - Open-Source
+      - RAN
+      - Radio
+      - Telecom
+    tags_raw:
       - Linux Foundation
       - Open Source
       - RAN
