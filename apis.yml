@@ -35,10 +35,10 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/o-ran.png
 tags:
   - Linux Foundation
   - Mobile Network
-  - Open-Source
+  - Open Source
   - RAN
   - Radio
-  - Telecom
+  - Telecommunications
 tags_raw:
   - Linux Foundation
   - Mobile Network
@@ -46,6 +46,7 @@ tags_raw:
   - RAN
   - Radio
   - Telecom
+  - Open-Source
 created: '2026-03-16'
 modified: '2026-04-28'
 url: >-
@@ -61,16 +62,17 @@ apis:
     humanURL: https://docs.o-ran-sc.org/
     tags:
       - Linux Foundation
-      - Open-Source
+      - Open Source
       - RAN
       - Radio
-      - Telecom
+      - Telecommunications
     tags_raw:
       - Linux Foundation
       - Open Source
       - RAN
       - Radio
       - Telecom
+      - Open-Source
     properties:
       - type: Documentation
         url: https://docs.o-ran-sc.org/
