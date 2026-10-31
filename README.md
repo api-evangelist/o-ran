@@ -1,4 +1,4 @@
-# O-RAN (o-ran)
+# O-RAN
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -66,54 +66,100 @@
 
 O-RAN supports the Open Radio Access Network architecture under the Linux Foundation for more interoperable and virtualized mobile network infrastructure. It defines open interfaces between RAN components enabling multi-vendor deployments and network intelligence through AI and machine learning.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/o-ran/refs/heads/main/apis.yml)
+**Areas:** Linux Foundation · Mobile Network · Open Source · RAN · Radio · Telecommunications
 
-## Scope
+## O-RAN on APIs.io
 
-- **Type:** Index
-- **Position:** Consumer
-- **Access:** 3rd-Party
+Everything profiled for O-RAN is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/o-ran/](https://apis.io/providers/o-ran/)** — or go straight to one of the APIs or properties below.
 
-## Tags
+### APIs (1)
 
-- Linux Foundation
-- Mobile Network
-- Open Source
-- RAN
-- Radio
-- Telecom
+- [O-RAN Software Community API](https://apis.io/apis/o-ran/o-ran-sc-api/) — Programmatic access to O-RAN Software Community open interface specifications, RAN intelligence APIs, near-real-time RIC (RICAPP), Non-RT RIC (NONRTRIC),…
 
-## Timestamps
+### Published properties
 
-- **Created:** 2026-03-16
-- **Modified:** 2026-04-28
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-## APIs
+#### Security (1)
 
-### O-RAN Software Community API
+Authentication, trust centre, and vulnerability disclosure.
 
-Programmatic access to O-RAN Software Community open interface specifications, RAN intelligence APIs, near-real-time RIC (RICAPP), Non-RT RIC (NONRTRIC), and network virtualization tools.
+- [O Ran Domain Security](https://apis.io/security/o-ran/o-ran-domain-security/)
 
-- **Human URL:** https://docs.o-ran-sc.org/
+#### Plans and pricing (1)
 
-#### Properties
+Published plans, tiers and prices.
 
-- [Documentation](https://docs.o-ran-sc.org/)
-- [API Documentation](https://docs.o-ran-sc.org/en/latest/)
-- [Architecture](https://docs.o-ran-sc.org/en/latest/architecture/architecture.html)
-- [Projects](https://docs.o-ran-sc.org/en/latest/projects.html)
-- [Source Code](https://github.com/o-ran-sc)
-- [Wiki](https://wiki.o-ran-sc.org/)
+- [O Ran Plans Pricing](https://apis.io/plans/o-ran/o-ran-plans-pricing/)
 
-## Common Properties
+#### Rate limits (1)
+
+Published request limits.
+
+- [O Ran Rate Limits](https://apis.io/rate-limits/o-ran/o-ran-rate-limits/)
+
+#### FinOps (1)
+
+What the API costs to run, by operation.
+
+- [O Ran Finops](https://apis.io/finops/o-ran/o-ran-finops/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://o-ran.org/)
 - [Documentation](https://docs.o-ran-sc.org/)
-- [GitHub Organization](https://github.com/o-ran-sc)
-- [Wiki](https://wiki.o-ran-sc.org/)
-- [Source Code (Gerrit)](https://gerrit.o-ran-sc.org/)
-- [Linux Foundation Project](https://www.lfnetworking.org/projects/o-ran-sc/)
 
-## Maintainers
+## API Evangelist rating
 
-- **Kin Lane** - kin@apievangelist.com
+**Kin Score 10.0** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 57.1 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 13.2 |
+| Developer ergonomics | 16.7 |
+| Access clarity | 7.9 |
+
+**Agent readiness 0.6** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | derived (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 5.0** — Telecommunications
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/o-ran/](https://apis.io/providers/o-ran/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for O-RAN: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/o-ran/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
